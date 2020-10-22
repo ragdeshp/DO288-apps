@@ -14,7 +14,7 @@ pipeline {
         //TODO: Edit these vars as per your env
         DEV_PROJECT = "ragdeshp1980-books-dev"
         STAGE_PROJECT = "ragdeshp1980-books-stage"
-        APP_GIT_URL = "https://github.com/ragdeshp1980/DO288-apps"
+        APP_GIT_URL = "https://github.com/ragdeshp/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com/repository/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
